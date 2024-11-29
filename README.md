@@ -20,6 +20,6 @@ docker run flugdk/containerization | tar -x
 With this:
 
 ```bash
-docker build --tag flug.dk/containerization .
-docker push flug.dk/containerization
+docker build --tag flugdk/containerization .
+docker push flugdk/containerization
 ```
